@@ -16,3 +16,7 @@ Users should be able to:
 
 ## Challenge Details 
 This project is a submission for the [Frontend Mentor](https://www.frontendmentor.io) challenge. The challenge provides a design that needs to be implemented using HTML, CSS.
+
+### Links
+
+- Live Site URL: [My implementation](https://frontend-mentor-nft-preview-card-component-ten.vercel.app/)
