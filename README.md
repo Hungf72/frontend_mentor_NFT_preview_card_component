@@ -1,0 +1,1 @@
+# frontend_mentor_NFT_preview_card_component
